@@ -1,6 +1,6 @@
 # phucdo0912.github.io
 <h1 align="center">📘 University of Economics Ho Chi Minh City (UEH)</h1>
-<h2 align="center">practice exercise>
+<h2 align="center">PRACTICE EXERCISE
 
 ---
 
